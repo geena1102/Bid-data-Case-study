@@ -1,0 +1,2 @@
+Spotify is a global music streaming service that has revolutionized how people consume music. With over 456 million monthly active users as of 2023, Spotify's platform generates a colossal amount of data daily. Big data visualization plays a crucial role in transforming this raw data into meaningful insights, helping Spotify enhance user experiences, optimize business operations, and maintain its competitive edge in the music streaming industry.
+Here is the case study that analyze the big data in spotify
